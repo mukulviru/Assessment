@@ -26,7 +26,7 @@
    ```bash
    cp .env.example .env
    ```
-   Update the `.env` file with your database credentials and other necessary configurations.
+   Update the `.env` file with your database credentials
 
 4. **Generate application key**
    ```bash
